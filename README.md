@@ -1,6 +1,7 @@
 ## Description of the problem
 Given 2 tables:
 (fact) - a table that contains the history of transactions.
+
  load_dttm - date and time when the record was inserted
  account_id - Unique account number of the client
  text entry - Transaction data contains information:
